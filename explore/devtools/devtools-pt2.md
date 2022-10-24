@@ -1,0 +1,2 @@
+1. The bug was because num1 and num2 are both string instead of integers.
+2. The way we want to fix it is to convert the string into integer using the function parseInt() to change a string into integer 
